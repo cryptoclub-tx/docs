@@ -15,7 +15,7 @@ but do note that other algorithms do exist. They generally work the same.
 
 A _hash_ is a string representation of data derived from input data. For example,
 the hash of the word "hello" is `2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824`.
-The hash of the world "howdy" is `0f1128046248f83dc9b9ab187e16fad0ff596128f1524d05a9a77c4ad932f10a`.
+The hash of the word "howdy" is `0f1128046248f83dc9b9ab187e16fad0ff596128f1524d05a9a77c4ad932f10a`.
 The hash of a Windows 10 disc file is `6c6856405dbc7674eda21bc5f7094f5a18af5c9bacc67ed111e8f53f02e7d13d`.
 
 In the case of SHA256, the output will always be a 64-character string. It doesn't matter if you input
