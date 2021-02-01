@@ -16,6 +16,17 @@ server. Since the code is written to the blockchain, everyone can read them and 
 These programs are referred to as _smart contracts_ and make up most of the interesting things
 on the Ethereum blockchain.
 
+## dApps
+_Distributed apps_ (commonly called _dapps_ or just _apps_) are generally combinations
+of an Ethereum smart contract and a web page. You generally need a browser plugin
+(see [wallets](wallets.md)) to interact with them.
+
+While they make look like traditional apps you use, these apps exist as smart contracts on the blockchain.
+When you interact with an app like [Compound](https://compound.finance/) or [Uniswap](https://uniswap.org/)
+you aren't sending "them" money, you are sending a program money. Some of these apps are entirely
+autonomous, some have varying degrees of central control/dependence. You are encouraged to be skeptical
+and do your own research before interacting with any smart contract.
+
 ## Tokens
 In addition to ether itself, Ethereum has a popular concept known as "ERC20 tokens", or "tokens"
 for short. Tokens live atop the Ethereum blockchain themselves, they do not exist on a standalone network.
