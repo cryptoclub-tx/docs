@@ -30,7 +30,7 @@ to find the input data. It's only useful to verify that the data you already hav
 
 ## Mining Process
 In Bitcoin, transactions get grouped up into "blocks". New blocks get created approximately every 10 minutes.
-Miners are resonsible for creating these blocks.
+Miners are responsible for creating these blocks.
 
 For a miner to create a block, they must "find a valid hash". In terms of Bitcoin, a hash is considered valid
 when it starts with a certain number of zeros. The amount of zeros required is referred to as the "difficulty"
