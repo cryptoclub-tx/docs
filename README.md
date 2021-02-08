@@ -8,3 +8,7 @@ This is where documentation goes for various topics discussed by cryptoclub.
 
 ## Advance Topics
 - [Mining](mining.md)
+
+-----
+
+We also have a list of [external resources](resources.md) to learn from.
