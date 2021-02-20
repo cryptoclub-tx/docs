@@ -8,6 +8,7 @@ This is where documentation goes for various topics discussed by cryptoclub.
 
 ## Advance Topics
 - [Mining](mining.md)
+- [Binance Smart Chain](binance-smart-chain.md)
 
 -----
 
