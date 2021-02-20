@@ -65,3 +65,4 @@ Listed here are popular Ethereum applications and their BSC alternatives:
     - [PancakeSwap](https://pancakeswap.finance/)
 - MakerDAO
   - [Venus](https://app.venus.io/)
+- [CREAM](https://app.cream.finance/) (Natively supported)
